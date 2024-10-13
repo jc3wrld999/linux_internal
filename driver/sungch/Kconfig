@@ -1,0 +1,8 @@
+menu "Sungch Example Driver"
+
+config SUNGCH_EXAMPLE
+    tristate "Sungch Example Driver"
+    help
+        This is an example driver using sungch class.
+
+endmenu
